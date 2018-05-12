@@ -1,0 +1,34 @@
+_repo: A-Heroine-of-France-The-Story-of-Joan-of-Arc_13500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Ward, E.
+    - Everett-Green, E. (Evelyn)
+    - Dare, Evelyn
+    - Adair, Cecil
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_issued: '2004-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joan, of Arc, Saint, 1412-1431 -- Juvenile fiction'
+- !lcsh 'Christian saints -- France -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'France -- History -- Charles VII, 1422-1461 -- Juvenile fiction'
+- !lcsh 'Women soldiers -- France -- Juvenile fiction'
+title: 'A Heroine of France: The Story of Joan of Arc'
+url: http://www.gutenberg.org/ebooks/13500
